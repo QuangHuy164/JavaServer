@@ -1,0 +1,10 @@
+DeleteCourseServlet.class
+StudentServlet.class
+DeleteStudentServlet.class
+CourseServlet.class
+RegistServlet.class
+StudentList.class
+loginServlet.class
+CourseList.class
+AddStudentServlet.class
+AddCourseServlet.class
